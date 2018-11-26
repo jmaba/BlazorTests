@@ -14093,11 +14093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Server\\MasterDetailCRUD.Server.csproj",
+      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Server\\MasterDetailCRUD.Server.csproj",
       "projectName": "MasterDetailCRUD.Server",
-      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Server\\MasterDetailCRUD.Server.csproj",
+      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Server\\MasterDetailCRUD.Server.csproj",
       "packagesPath": "C:\\Users\\AdiB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Server\\obj\\",
+      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14116,11 +14116,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj": {
-              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj"
+            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj": {
+              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj"
             },
-            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj": {
-              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj"
+            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj": {
+              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj"
             }
           }
         }

@@ -3460,11 +3460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj",
+      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj",
       "projectName": "MasterDetailCRUD.Client",
-      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj",
+      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Client\\MasterDetailCRUD.Client.csproj",
       "packagesPath": "C:\\Users\\AdiB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Client\\obj\\",
+      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3483,8 +3483,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj": {
-              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj"
+            "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj": {
+              "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj"
             }
           }
         }

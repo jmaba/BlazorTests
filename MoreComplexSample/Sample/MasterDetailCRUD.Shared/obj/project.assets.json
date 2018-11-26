@@ -3079,11 +3079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj",
       "projectName": "MasterDetailCRUD.Shared",
-      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj",
+      "projectPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\MasterDetailCRUD.Shared.csproj",
       "packagesPath": "C:\\Users\\AdiB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\C#\\MasterDetailCRUD.Shared\\obj\\",
+      "outputPath": "C:\\Users\\AdiB\\Desktop\\Blazor Samples\\MoreComplexSample\\Sample\\MasterDetailCRUD.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
