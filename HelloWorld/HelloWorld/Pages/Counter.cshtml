@@ -4,25 +4,38 @@
 <p>Current count: @currentCount</p>
 
 <button class="btn btn-primary" onclick="@IncrementCount">Click me</button>
+<button class="btn btn-primary" onclick="@HelloWorld">Click me to Hello World</button>
 <br />
 
 
+Please enter your name:
+<input type="text" bind="@Name" onchange="@DoStuff" />
 
+<br />
 <br />
 
 
+@Message
 @functions {
 
-    private string Name { get; set; } = "Sss";
+public string Name { get; set; }
 
-    private string Message { get; set; }
+private string Message => "Hello world from..." + Name;
 
-    int currentCount = 0;
+int currentCount = 0;
 
-    private void IncrementCount()
-    {
-        currentCount += 1;
-        Name = "223";
-        StateHasChanged();
-    }
+private void IncrementCount()
+{
+    currentCount += 1;
+    StateHasChanged();
+}
+
+private void HelloWorld()
+{
+}
+
+private void DoStuff(UIChangeEventArgs evt)
+{
+}
+
 }
