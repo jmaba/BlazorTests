@@ -1,0 +1,18 @@
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.deps.json
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.pdb
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.csprojAssemblyReference.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.AssemblyInfoInputs.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.AssemblyInfo.cs
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.deps.json
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\bin\Debug\netstandard2.0\MasterDetailCRUD.Shared.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.csprojAssemblyReference.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.AssemblyInfoInputs.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.AssemblyInfo.cs
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Shared\obj\Debug\netstandard2.0\MasterDetailCRUD.Shared.pdb

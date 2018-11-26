@@ -1,0 +1,43 @@
+﻿@page "/JsInterop"
+
+<h1>JavaScript Interop</h1>
+
+<h2>Invoke JavaScript functions from .NET methods</h2>
+
+<button type="button" class="btn btn-primary" onclick="@TriggerJsPrompt">
+    Trigger JavaScript Prompt
+</button>
+
+<h3 id="welcome" style="color:green;font-style:italic"></h3>
+
+<br />
+
+<button type="button" class="btn btn-primary"
+        onclick="exampleJsFunctions.returnArrayAsyncJs()">
+    Trigger .NET static method ReturnArrayAsync
+</button>
+
+
+<div id="arrayElements"></div>
+
+@functions {
+public async void TriggerJsPrompt()
+{
+    var name = await MyInteroptExtentionClass.Prompt("What's your name?");
+    await MyInteroptExtentionClass.Display($"Hello {name}! Welcome to Blazor!");
+}
+
+[JSInvokable]
+public static Task<int[]> ReturnArrayAsync()
+{
+
+    int Min = 0;
+    int Max = 20;
+    Random randNum = new Random();
+    int[] res = Enumerable
+        .Repeat(0, 5)
+        .Select(i => randNum.Next(Min, Max))
+        .ToArray();
+    return Task.FromResult(res);
+}
+}

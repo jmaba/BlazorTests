@@ -1,0 +1,34 @@
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.blazor.config
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.deps.json
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.runtimeconfig.json
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.runtimeconfig.dev.json
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.pdb
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.pdb
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Shared.pdb
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csprojAssemblyReference.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csproj.CoreCompileInputs.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.AssemblyInfoInputs.cache
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.AssemblyInfo.cs
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csproj.CopyComplete
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.dll
+C:\Users\AdiB\Desktop\Sample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.blazor.config
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.deps.json
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.runtimeconfig.json
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.runtimeconfig.dev.json
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Server.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Shared.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Client.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\bin\Debug\netcoreapp2.0\MasterDetailCRUD.Shared.pdb
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csprojAssemblyReference.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csproj.CoreCompileInputs.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.AssemblyInfoInputs.cache
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.AssemblyInfo.cs
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.csproj.CopyComplete
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.dll
+C:\Users\AdiB\Desktop\Blazor Samples\MoreComplexSample\C#\MasterDetailCRUD.Server\obj\Debug\netcoreapp2.0\MasterDetailCRUD.Server.pdb
