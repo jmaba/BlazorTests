@@ -1,9 +1,0 @@
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\bin\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.deps.json
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\bin\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.dll
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\bin\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.pdb
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.csprojAssemblyReference.cache
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.csproj.CoreCompileInputs.cache
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.AssemblyInfoInputs.cache
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.AssemblyInfo.cs
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.dll
-C:\Users\AdiB\Desktop\Blazor Samples\BlazorAndAspNetCore\BlazorAndAspNetCore.Shared\obj\Debug\netstandard2.0\BlazorAndAspNetCore.Shared.pdb
